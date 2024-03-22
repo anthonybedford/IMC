@@ -1,5 +1,4 @@
-body{
-    background-image: url(sushi2.0.png);
+div{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -8,10 +7,8 @@ body{
     background-attachment: fixed
 }
 
-div{
-    color: #fff;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
-}
+
+
 
 .estrutura{
     margin-top: 150%;
