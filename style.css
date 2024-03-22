@@ -1,6 +1,5 @@
-div{
-    background-image: url(![sushi2 0](https://github.com/anthonybedford/IMC/assets/164389538/a411be3e-eb82-45c6-8d20-e1b185aa994a)
-);
+body{
+    background-image: url(sushi.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -9,8 +8,10 @@ div{
     background-attachment: fixed
 }
 
-
-
+div{
+    color: #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
 
 .estrutura{
     margin-top: 150%;
